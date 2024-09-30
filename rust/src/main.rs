@@ -1,7 +1,7 @@
 #![allow(dead_code)]
 
 mod array;
-mod hasp_map;
+mod hash;
 mod math;
 mod sorting;
 mod string;
